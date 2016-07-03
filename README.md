@@ -1,2 +1,2 @@
 # R-demos
-## a collection of CRAN R and MS R demos.
+#### In this folder, we provide a series of demos or tutorials built by CRAN R and MS R. 
