@@ -1,0 +1,5 @@
+### HDInsight
+###### In this folder, we provides the R scripts for running RevoScaleR functions under different compute contexts across Hadoop environment, for example Microsoft HDInsight virtual machine.
+
+* **AirlineInHadoop.R**: A scripts to run RevoScaleR functions on a small dataset with Local, RxHadoopMR & RxSpart compute context.
+* **AirlineInHadoopLab.R**: A scripts to run RevoScaleR functions on a larger dataset with Local, RxHadoopMR & RxSpart compute context.
